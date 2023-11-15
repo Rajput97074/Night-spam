@@ -1,0 +1,5 @@
+build:
+  docker:
+    SMOKER: Dockerfile
+run:
+  TEAM SMOKER: python3 -m main.py
